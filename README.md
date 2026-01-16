@@ -60,9 +60,7 @@
 <a href="https://github.com/SaharatM864/SaharatM864">
   <img height="180em" src="./stats/github-metrics.svg" />
 </a>
-<a href="https://github.com/SaharatM864/SaharatM864">
-  <img height="180em" src="./stats/github-metrics-langs.svg" />
-</a>
+
 <br/>
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaharatM864&theme=tokyonight" alt="SaharatM864 Activity Graph" />
