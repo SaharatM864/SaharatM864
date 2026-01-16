@@ -19,7 +19,7 @@
 - 🌱 Currently learning and developing skills in Software Development.
 - 🔭 I enjoy working on Open Source projects and exploring new technologies.
 - 💬 Ask me about technology or let's share knowledge!
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
+- 📫 How to reach me: [aon.3668@gmail.com](mailto:aon.3668@gmail.com)
 
 ---
 
@@ -66,16 +66,7 @@
 
 ---
 
-### 🎧 Now Playing
 
-<!-- To show Spotify playing, you might need to set up Vercel or Actions -->
-<!-- <div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline_msg=true&interchange=true&bar_color=53b14f&bar_color_cover=false">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline_msg=true&interchange=true&bar_color=53b14f&bar_color_cover=false" />
-  </a>
-</div> -->
-
----
 
 <div align="center">
 
