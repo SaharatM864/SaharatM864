@@ -5,28 +5,37 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update-stats:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
-      - uses: actions/checkout@v4
+      - name: Generate General Stats
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
+          user: SaharatM864
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Bangkok
+          filename: stats/github-metrics.svg
+          committer_branch: main
+          committer_message: "Update stats [skip ci]"
+          output_action: commit
 
-      - name: Create stats directory
-        run: mkdir -p stats
-
-      - name: Download Stats Images
-        run: |
-          # Download files directly from the API (method 2 originally suggested) but save as file
-          curl -o stats/github-metrics.svg "https://github-readme-stats.vercel.app/api?username=SaharatM864&show_icons=true&theme=tokyonight"
-          curl -o stats/github-metrics-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=SaharatM864&layout=compact&theme=tokyonight&langs_count=8"
-
-      - name: Commit & Push
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git pull origin main
-          git add stats/github-metrics.svg stats/github-metrics-langs.svg
-          git commit -m "Update GitHub Stats [skip ci]" || exit 0
-          git push origin main
+      - name: Generate Top Languages
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
+          user: SaharatM864
+          template: classic
+          base: ""
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_limit: 8
+          filename: stats/github-metrics-langs.svg
+          committer_branch: main
+          committer_message: "Update langs [skip ci]"
+          output_action: commit
