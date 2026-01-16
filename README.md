@@ -79,13 +79,13 @@
 
 
 <div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophies">
+    <img src="https://github-profile-trophies.vercel.app/?username=SaharatM864&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="SaharatM864" />
+  </a>
+</div>
 
-### 🤝 Connect with me
+<br/>
 
-<a href="https://facebook.com/your-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
-<a href="https://twitter.com/your-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/your-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://instagram.com/your-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/your-discord-id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
-
+<div align="center">
+  <img src="https://github.com/SaharatM864/SaharatM864/blob/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
