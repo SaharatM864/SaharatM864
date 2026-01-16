@@ -25,13 +25,31 @@
 
 ### 🛠️ Tech Stack
 
+
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular,svelte,nodejs,express,nestjs,python,django,flask,java,spring,c,cpp,cs,go,rust,php,laravel,swift,flutter,kotlin,dart&perline=10)](https://skillicons.dev)
+**Languages**
 <br/>
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,firebase,supabase,dynamodb,aws,gcp,azure,docker,kubernetes,jenkins,gitlab,github,git,linux,ubuntu,vscode,vim,postman,figma,photoshop,illustrator,blender,unity,unreal&perline=10)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=c,cpp,cs,java,python,rust,lua,html,css,js,ts&perline=11)](https://skillicons.dev)
+
+**Frontend & UI**
+<br/>
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,vue,angular,flutter,bootstrap,tailwind,sass,threejs,materialui,vuetify&perline=11)](https://skillicons.dev)
+
+**Backend, Database & Data**
+<br/>
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,django,dotnet,mysql,postgres,mongodb,redis,sqlite,firebase&perline=11)](https://skillicons.dev)
+
+**Cloud & DevOps**
+<br/>
+[![Cloud](https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,gitlab,github,git,linux,ubuntu,vercel,netlify&perline=13)](https://skillicons.dev)
+
+**Tools & Creative**
+<br/>
+[![Tools](https://skillicons.dev/icons?i=vscode,vim,pycharm,androidstudio,postman,figma,photoshop,illustrator,blender,unity,unreal&perline=11)](https://skillicons.dev)
 
 </div>
+
 
 ---
 
@@ -56,15 +74,7 @@
 
 ---
 
-### 🏆 Trophies
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SaharatM864&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-  </a>
-</div>
-
----
 
 
 
