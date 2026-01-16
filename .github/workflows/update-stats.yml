@@ -25,7 +25,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Bangkok
-          filename: stats/github-metrics.svg
+          filename: github-metrics.svg
           output_action: none # We will commit manually to handle multiple files
 
       - name: Generate Top Languages
@@ -38,14 +38,17 @@ jobs:
           plugin_languages: yes
           plugin_languages_ignored: html, css
           plugin_languages_limit: 8
-          filename: stats/github-metrics-langs.svg
+          filename: github-metrics-langs.svg
           output_action: none
 
       - name: Commit & Push
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git pull origin main # Ensure we have latest changes
+          git pull origin main
+          ls -R # DEBUG
+          mv github-metrics.svg stats/github-metrics.svg || echo "Main stats missing"
+          mv github-metrics-langs.svg stats/github-metrics-langs.svg || echo "Langs stats missing"
           git add stats/github-metrics.svg stats/github-metrics-langs.svg
           git commit -m "Update GitHub Stats [skip ci]" || exit 0
           git push origin main
