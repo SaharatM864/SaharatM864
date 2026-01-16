@@ -63,6 +63,10 @@
 <a href="https://github.com/SaharatM864/SaharatM864">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaharatM864&layout=compact&theme=tokyonight&langs_count=8" />
 </a>
+<br/>
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaharatM864&theme=tokyonight" alt="SaharatM864 Activity Graph" />
+</a>
 
 <br/>
 
