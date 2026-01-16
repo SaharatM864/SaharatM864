@@ -58,10 +58,10 @@
 <div align="center">
 
 <a href="https://github.com/SaharatM864/SaharatM864">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaharatM864&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="./stats/github-metrics.svg" />
 </a>
 <a href="https://github.com/SaharatM864/SaharatM864">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaharatM864&layout=compact&theme=tokyonight&langs_count=8" />
+  <img height="180em" src="./stats/github-metrics-langs.svg" />
 </a>
 <br/>
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
