@@ -30,7 +30,7 @@
 
 **Languages**
 <br/>
-[![Languages](https://skillicons.dev/icons?i=c,cpp,cs,java,python,rust,lua,html,css,js,ts&perline=11)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=c,cpp,cs,java,python,lua,html,css,js,ts&perline=11)](https://skillicons.dev)
 
 **Frontend & UI**
 <br/>
