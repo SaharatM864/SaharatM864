@@ -42,11 +42,11 @@
 
 **Cloud & DevOps**
 <br/>
-[![Cloud](https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,gitlab,github,git,linux,ubuntu,vercel,netlify&perline=13)](https://skillicons.dev)
+[![Cloud](https://skillicons.dev/icons?i=aws,gcp,azure,docker,jenkins,gitlab,github,git,linux,ubuntu,vercel,netlify&perline=13)](https://skillicons.dev)
 
 **Tools & Creative**
 <br/>
-[![Tools](https://skillicons.dev/icons?i=vscode,vim,pycharm,androidstudio,postman,figma,photoshop,illustrator,blender,unity,unreal&perline=11)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,pycharm,androidstudio,postman,figma,photoshop,illustrator,blender&perline=11)](https://skillicons.dev)
 
 </div>
 
